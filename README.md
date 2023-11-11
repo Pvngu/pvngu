@@ -1,4 +1,4 @@
-![MasterHead](/header.gif)
+![MasterHead](/header-crop.gif)
 # 💫 About Me:
 I'm currently studying at National Technological Institute of Mexico, and I'm learning web development through free online courses.
 
